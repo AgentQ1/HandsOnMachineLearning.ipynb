@@ -9,8 +9,9 @@ __pycache__/
 /datasets/
 /images/
 /my_model.pkl
-/my_iris_tree.dot
-/my_iris_tree.dot.*
+/my_*_tree.dot
+/my_*_tree.dot.*
+/my_*_tree.png
 *.executed.ipynb
 
 # Local machine files
