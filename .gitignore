@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Notebook downloads and generated outputs
+/datasets/
+/images/
+/my_model.pkl
+/my_iris_tree.dot
+/my_iris_tree.dot.*
+*.executed.ipynb
+
+# Local machine files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
